@@ -64,3 +64,58 @@ git remote add Tina https://github.com/Landmarktech29class/Bank-of-America-1
 git remote -v
 git push Tina Master
 gist push Tina master
+git push Tina masters
+git remote -v
+useradd Dominion
+sudo useradd Dominion
+sudo passwd Dominion
+cat -n /etc/ssh/sshd_config
+Sudo cat -n etc/ssh/sshd_config
+sudo cat -n etc/ssh/sshd_config
+sudo cat -n /etc/ssh/sshd_config
+clear
+sudo systemctl restart
+sudo systemctl restart sshd
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart
+sudo systemctl restart sshd
+sudo useradd Dominion
+sudo useradd simon
+sudo passwd simon
+ssh simon@3.99.79.65.240
+ssh simon@99.79.65.240
+clear
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart
+sudo systemctl restart sshd
+sudo useradd Olu
+sudo passwd Olu
+sudo Olu@99.79.65.240
+ssh Olu@99.79.65.240
+sudo su -
+sudo su - Olu
+vi list.java
+git satus
+git status
+git
+clear
+sudo yum install git
+git add
+git init
+git status
+clear
+git add list.java
+git status
+git .
+git status
+cler
+clear
+git commit -m "this contains the list of users"
+git status
+git add .
+git status
+clear
+git commit -m "git list"
+git log
+git status
+git show
